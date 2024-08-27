@@ -9,8 +9,8 @@ body {
 
 header {
     position: relative;
-    height: 100vh; /* Ensure header has a fixed height */
-    background-image: url('metro2.png'); /* Default background image */
+    height: 100vh; 
+    background-image: url('metro2.png'); 
     background-size: cover;
     background-position: center;
 }
@@ -378,8 +378,8 @@ h2, h3, p {
         top:20%;
     }
     header {
-        background-image: url('6.png'); /* Change the background image for mobile */
-        background-position: center; /* Adjust image focus */
+        background-image: url('mobil.png');
+        background-position: center;
     }
     iframe {
         height: 250px;
